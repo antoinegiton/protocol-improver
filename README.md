@@ -12,7 +12,9 @@ AI-powered laboratory protocol analyzer and improver using Claude AI.
 
 ## Live Demo
 
-🌐 Visit: [Protocol Improver](https://protocol-improver.onrender.com)
+🌐 **Live Demo:** [https://antoinegiton.github.io/protocol-improver/](https://antoinegiton.github.io/protocol-improver/)
+
+🔧 **Backend API:** [https://your-app.onrender.com](https://your-app.onrender.com)
 
 ## How It Works
 
